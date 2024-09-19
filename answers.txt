@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
    Answer: Git works well with large projects that have to be merged with multiple developers.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to economics! It is very insightful to have an in depth understanding of large datasets when viewing the economy.
